@@ -8,9 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "chat": [],
   "recipe": {
     "name": "Pizza",
     "ingredient": ["Salami", "Cheese"] 
@@ -18,5 +16,4 @@
   "cng-stations": [
     { "id": 1, "title": "Gasum - Ruskeasuo", "city": "Helsinki", "address": "Hakamäenkuja 1"}
   ],
-  "chat": []
 }
