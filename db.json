@@ -13,7 +13,7 @@
   },
   "recipe": {
     "name": "Pizza",
-    "name": "Pasta"
+    "ingredient": ["Salani", "Cheese"] 
   },
   "cng-stations": [
     { "id": 1, "title": "Gasum - Ruskeasuo", "city": "Helsinki", "address": "Hakamäenkuja 1"}
