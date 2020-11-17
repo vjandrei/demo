@@ -8,10 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "recipe": {
-    "name": "Pizza",
-    "ingredient": ["Salami", "Cheese"] 
-  },
+  "name":[],
   "cng-stations": [
     { "id": 1, "title": "Gasum - Ruskeasuo", "city": "Helsinki", "address": "Hakamäenkuja 1"}
   ]
