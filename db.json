@@ -17,5 +17,6 @@
   },
   "cng-stations": [
     { "id": 1, "title": "Gasum - Ruskeasuo", "city": "Helsinki", "address": "Hakamäenkuja 1"}
-  ]
+  ],
+  chat: []
 }
